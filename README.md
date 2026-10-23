@@ -129,6 +129,3 @@ Data Analyst Portfolio Project
 
 [Bank Loan Analysis Project](https://github.com/kirnthorat/Bank_loan_project)
 
----
-
-*This is a portfolio project for learning and demonstrating SQL-based analysis and Tableau dashboard development.*
